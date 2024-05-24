@@ -27,7 +27,7 @@ The data should be grouped by medicine and date, summing up the total sales for 
 To run this project, you need to have Python installed along with the necessary libraries. You can install the required libraries using the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 ## Usage
 - Clone the repository
