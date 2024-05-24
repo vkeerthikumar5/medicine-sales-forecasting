@@ -27,7 +27,8 @@ The data should be grouped by medicine and date, summing up the total sales for 
 To run this project, you need to have Python installed along with the necessary libraries. You can install the required libraries using the following command:
 
 ```bash
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+```
 
 ## Usage
 - Clone the repository
@@ -48,7 +49,7 @@ The model training and forecasting process involves the following steps:
 You can run the model training and forecasting script by executing:
 ```bash
 python forecast_sales.py
-
+```
 ## Results
 The forecasts for each medicine, along with the corresponding plots, will be displayed. These plots include the sales forecast and the forecast components (trend, weekly, and yearly seasonality).
 
